@@ -2,7 +2,7 @@
 
 Sitio profesional de **Pedro Bernal Cespedes Vargas**, desarrollador independiente en Costa Rica. Presenta servicios de diseño de sitios web, aplicaciones, sistemas de gestión e integraciones para distintos tipos de negocios.
 
-**Sitio público:** https://pedrobcv.github.io/savia-software/
+**Sitio público:** https://pedrobcv.github.io/pedro-software/
 
 **Contacto:** bcv008@gmail.com
 
@@ -10,7 +10,7 @@ Savia aparece como un proyecto de software en desarrollo para clínicas y centro
 
 ## Publicación
 
-GitHub Pages publica los archivos de la rama **main**, carpeta **/(root)**. Un cambio en esa rama inicia el despliegue. El nombre del repositorio y la dirección existente se conservan para mantener los enlaces.
+GitHub Pages publica los archivos del repositorio **pedrobcv/pedro-software**, rama **main**, carpeta **/(root)**. Un cambio en esa rama inicia el despliegue. Los recursos de la página usan rutas relativas para funcionar bajo esta dirección.
 
 ## Archivos
 
