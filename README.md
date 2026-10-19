@@ -1,31 +1,27 @@
-# Savia · Sitio de presentación
+# Pedro Bernal · Diseño y desarrollo digital
 
-Página estática para presentar Savia como un proyecto de software para clínicas de fisioterapia y centros de bienestar, desarrollado en Costa Rica. El producto se encuentra en desarrollo y validación; la integración con Meta está en pruebas.
+Sitio profesional de **Pedro Bernal Cespedes Vargas**, desarrollador independiente en Costa Rica. Presenta servicios de diseño de sitios web, aplicaciones, sistemas de gestión e integraciones para distintos tipos de negocios.
 
-Contacto público autorizado: **bcv008@gmail.com**.
+**Sitio público:** https://pedrobcv.github.io/savia-software/
 
-Responsable del proyecto: **Pedro Bernal Cespedes Vargas**. El propietario autorizó publicar su nombre y correo. La página de privacidad incluye el nombre legal de registro para relacionar el proyecto con el responsable; no se publican identificaciones, direcciones ni documentos fiscales.
+**Contacto:** bcv008@gmail.com
 
-## Publicar en GitHub Pages
+Savia aparece como un proyecto de software en desarrollo para clínicas y centros de bienestar, dentro de una oferta más amplia de soluciones digitales. La integración de ese proyecto con Meta Cloud API sigue en pruebas; la página no presenta esa integración como habilitada para producción.
 
-1. Cambia este repositorio a público cuando lo hayas revisado.
-2. Abre **Settings → Pages**.
-3. En **Build and deployment → Source**, selecciona **Deploy from a branch**.
-4. Selecciona **main** y **/(root)**; pulsa **Save**.
-5. Espera a que GitHub muestre la URL publicada. La dirección prevista para un repositorio llamado `savia-software` del propietario `pedrobcv` es `https://pedrobcv.github.io/savia-software/`; solo estará disponible después del despliegue.
+## Publicación
 
-Documentación: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+GitHub Pages publica los archivos de la rama **main**, carpeta **/(root)**. Un cambio en esa rama inicia el despliegue. El nombre del repositorio y la dirección existente se conservan para mantener los enlaces.
 
 ## Archivos
 
-- `index.html`: presentación del producto, funciones, estado y contacto.
-- `styles.css`: diseño adaptable, sin fuentes ni bibliotecas externas.
-- `script.js`: mejora opcional de navegación por teclado; la página funciona sin JavaScript.
-- `privacidad.html`: privacidad de la página informativa.
-- `favicon.svg`: icono de Savia.
-- `404.html`: página de error.
-- `.nojekyll`: permite servir los archivos directamente.
+- index.html: presentación del desarrollador, servicios, proceso de trabajo, proyecto destacado y contacto.
+- styles.css: diseño adaptable con variables CSS, Grid y Flexbox.
+- script.js: mejora de enfoque para navegación interna con teclado; el contenido funciona sin JavaScript.
+- privacidad.html: información de privacidad de la página de presentación.
+- favicon.svg: icono del sitio.
+- 404.html: página de error.
+- .nojekyll: sirve los archivos sin procesamiento de Jekyll.
 
-Todos los recursos utilizan rutas relativas compatibles con GitHub Pages. No requiere paquetes, instalación, compilación, Firebase ni claves de acceso. La vista de agenda es una ilustración con datos ficticios.
+HTML, CSS y JavaScript sin dependencias, fuentes externas, formularios ni analítica del proyecto. Las rutas relativas son compatibles con GitHub Pages. La ilustración principal es conceptual.
 
-Esta carpeta no contiene expedientes, documentos fiscales, identificaciones ni direcciones privadas. Es un sitio independiente del código de la aplicación. Su publicación no garantiza la aprobación de la verificación de Meta, que evalúa la identidad y documentación del negocio.
+El nombre y correo públicos fueron autorizados por el responsable. Esta carpeta no contiene identificaciones, direcciones privadas, documentos fiscales, datos de pacientes ni credenciales. Es independiente del código de la aplicación Savia. La publicación del sitio no garantiza la aprobación de Meta.
